@@ -1,0 +1,6 @@
+@font-face{font-family:Inter;src:url(fonts/Inter.ttf);font-weight:100 900}
+:root{
+  --bg:#08090a; --surface:#121315; --ink:#f1f2f3; --muted:#9298a1;
+  --line:rgba(255,255,255,.09); --accent:#e5e7eb; --cta:#fff; --cta-ink:#08090a;
+  --radius:10px; --content:1120px; --theme:#08090a;
+}
